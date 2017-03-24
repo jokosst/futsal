@@ -1,7 +1,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2017 ESTI. Informasi Sembako Kota Pontianak.</p>
+            <p>&copy; 2017 MaenYok.Com</p>
             <!-- <ul class="list-inline">
                 <li>
                     <a href="#">Privacy</a>
